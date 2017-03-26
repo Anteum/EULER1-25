@@ -1,0 +1,17 @@
+.vs/EULER1to25/v14/.suo
+*.exe
+*.pdb
+Debug/EULER.ilk
+*.ilk
+*.sdf
+*.tlog
+*.obj
+*.lastbuildstate
+*.enc
+*.idb
+EULER/Debug/EULER.log
+*.vcxproj
+*.db
+EULER/EULER.vcxproj.filters
+*.suo
+EULER1to25.sln
