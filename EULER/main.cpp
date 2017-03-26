@@ -1,7 +1,7 @@
 //https://projecteuler.net/archives
 #include "connect.h"
 
-int main()
+int main()//uncomment one solution at a time to try it out
 {
 	cout << "Hello World!" << endl;
 
